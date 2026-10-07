@@ -1,0 +1,15 @@
+/* PixelForge - AMOLED (Pure Black) Theme */
+QWidget { background-color: #000000; color: #e6e8ee; font-family: "Segoe UI", "Vazirmatn", "Microsoft YaHei", sans-serif; font-size: 13px; }
+#SideNav { background-color: #000000; border-right: 1px solid #1a1a1a; }
+#SideNav QPushButton { text-align: left; padding: 10px 14px; border: none; border-radius: 8px; margin: 2px 8px; color: #b0b3ba; }
+#SideNav QPushButton:hover { background-color: #111111; }
+#SideNav QPushButton:checked { background-color: #1c1c1c; color: #6ea8ff; font-weight: 600; }
+QPushButton { background-color: #4f7fff; color: white; border: none; padding: 8px 16px; border-radius: 6px; }
+QPushButton:hover { background-color: #3f68d8; }
+QLineEdit, QComboBox, QSpinBox, QDoubleSpinBox { background: #0a0a0a; border: 1px solid #1f1f1f; border-radius: 6px; padding: 6px; color: #e6e8ee; }
+QTableWidget, QListWidget, QTreeWidget { background: #050505; border: 1px solid #1a1a1a; border-radius: 8px; color: #e6e8ee; }
+QHeaderView::section { background: #0a0a0a; padding: 6px; border: none; font-weight: 600; color: #cfd3dc; }
+QProgressBar { border: 1px solid #1f1f1f; background: #0a0a0a; color: #e6e8ee; }
+QProgressBar::chunk { background-color: #4f7fff; }
+#DashboardCard { background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 10px; padding: 14px; }
+#DashboardCardValue { font-size: 22px; font-weight: 700; color: #6ea8ff; }

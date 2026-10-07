@@ -1,0 +1,14 @@
+/* PixelForge - Blue Accent Theme */
+QWidget { background-color: #eaf1fb; color: #10233f; font-family: "Segoe UI", "Vazirmatn", "Microsoft YaHei", sans-serif; font-size: 13px; }
+#SideNav { background-color: #0f3d73; border-right: 1px solid #0b2f59; }
+#SideNav QPushButton { text-align: left; padding: 10px 14px; border: none; border-radius: 8px; margin: 2px 8px; color: #d7e6ff; }
+#SideNav QPushButton:hover { background-color: #164e8f; }
+#SideNav QPushButton:checked { background-color: #1c62b3; color: #ffffff; font-weight: 600; }
+QPushButton { background-color: #1c62b3; color: white; border: none; padding: 8px 16px; border-radius: 6px; }
+QPushButton:hover { background-color: #164e8f; }
+QLineEdit, QComboBox, QSpinBox, QDoubleSpinBox { background: #ffffff; border: 1px solid #b8cfe8; border-radius: 6px; padding: 6px; }
+QTableWidget, QListWidget, QTreeWidget { background: #ffffff; border: 1px solid #b8cfe8; border-radius: 8px; }
+QHeaderView::section { background: #d7e6ff; padding: 6px; border: none; font-weight: 600; color: #0f3d73; }
+QProgressBar::chunk { background-color: #1c62b3; border-radius: 6px; }
+#DashboardCard { background: #ffffff; border: 1px solid #b8cfe8; border-radius: 10px; padding: 14px; }
+#DashboardCardValue { font-size: 22px; font-weight: 700; color: #1c62b3; }
