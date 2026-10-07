@@ -47,4 +47,4 @@ bash scripts/test.sh        # Linux
 
 ## License
 
-MIT - see [LICENSE](LICENSE).
+Apache  - see [LICENSE](LICENSE).
